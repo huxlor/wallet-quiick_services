@@ -75,6 +75,9 @@ npm install express mongoose jsonwebtoken bcryptjs dotenv
 
 El servidor estará corriendo en `http://localhost:3000`.
 
+## Épica 1: Backend
+- **Descripción**: Desarrollar el backend de la aplicación en Node.js con Express, que gestionará las cuentas de usuario, ingresos, gastos, y deudas. Debe incluir endpoints para CRUD de todas las entidades necesarias y asegurar la integridad de los datos.
+
 ## Historias de Usuario
 
 ### Historia 1.1: Configuración inicial del servidor Node.js con Express
